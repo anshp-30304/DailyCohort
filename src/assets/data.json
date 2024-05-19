@@ -1,0 +1,147 @@
+{
+    "Week 0": [
+        "Week 0.1 - Introduction, Settings up IDE.mp4",
+        "Week 0.2 - HTML basic (Tags, Attributes).mp4",
+        "Week 0.3 - CSS Basic.mp4"
+    ],
+    "Week 1": [
+        "Week 1.1 - Orientation Class.mp4",
+        "Week 1.2 - Javascript Foundation.mp4",
+        "Week 1.3 - Offline Class.mp4",
+        "Week 1.4 - Loops, Functions, Callback functions.mp4",
+        "Week 1.5 - Async functions, Promises and async await.mp4"
+    ],
+    "Week 2": [
+        "Week 2.1 - Promise and async.mp4",
+        "Week 2.2 - Express and backend.mp4",
+        "Week 2.3 - Bash and terminal.mp4",
+        "Week 2.4 - Bash and Terminal (Advance).mp4",
+        "Week 2.5 - Express basics.mp4",
+        "Week 2.6 - Map, filter, arrow functions.mp4",
+        "Week 2.7 - Git basics to advance.mp4"
+    ],
+    "Week 3": [
+        "Week 3.0.1 - What We're Covering In Week 3.mp4",
+        "Week 3.0.2 - Js Foundation Revision.mp4",
+        "Week 3.0.3 - Node.Js Runtime.mp4",
+        "Week 3.0.4 - Express Basics.mp4",
+        "Week 3.0.5 - Express Advance Intro.mp4",
+        "Week 3.0.6 - Databases Intro.mp4",
+        "Week 3.0.7 - Mongo Installation.mp4",
+        "Week 3.0.8 - Postgres Installation.mp4",
+        "Week 3.1 - Middlewares, global catches and zod.mp4",
+        "Week 3.2 - dynamic backend auth using express JWT and mongodb.mp4",
+        "Week 3.3 - Databases and Authentication.mp4",
+        "Week 3.4 - JWT and Auth Recap And Assignment.mp4",
+        "Week 3.5 - DOM Introduction.mp4"
+    ],
+    "Week 4": [
+        "Week 4.1 - DOM Introduction.mp4",
+        "Week 4.2 - React Foundation.mp4",
+        "Week 4.3.2 - MongoDB part-2.mp4"
+    ],
+    "Week 5": [
+        "Week 5.1 - React Foundation.mp4",
+        "Week 5.2 - Project -TODO app.mp4"
+    ],
+    "Week 6": [
+        "Week 6.1 - React Deeper Dive.mp4",
+        "Week 6.2 - Hooks.mp4",
+        "Week 6.3 - Recap of everything.mp4",
+        "Week 6.4 - Assignment Solutions.mp4"
+    ],
+    "Week 7": [
+        "Week 7.1 - Context, prop drilling.mp4",
+        "Week 7.2 Context API, State Management & Recoil.mp4",
+        "Week 7.3 - Recoil deep dive.mp4"
+    ],
+    "Week 8": [
+        "Week 8.0 - tailwind, flex.mp4",
+        "Week 8.1 - tailwind, advance.mp4",
+        "Week 8.3 - Axios vs Fetch.mp4",
+        "Week 8.3 - Recap and Paytm Project.mp4",
+        "Week 8.4 - PayTM Frontend.mp4"
+    ],
+    "Week 9": [
+        "Week 9.1 - Custom Hooks.mp4",
+        "Week 9.2 - Typescript Intro.mp4",
+        "Week 9.3 - Typescript Continued.mp4"
+    ],
+    "Week 10": [
+        "Week 10.1 - Postgres SQL Cohort 2.mp4",
+        "Week 10.2 - Prisma ORM.mp4"
+    ],
+    "Week 11": [
+        "Week 11.1 Serverless Architecture part 1.mp4",
+        "Week 11.1 Serverless Architecture part 2.mp4",
+        "Week 11.1 Serverless Architecture part 3.mp4",
+        "Week 11.2 - AWS.mp4"
+    ],
+    "Week 12": [
+        "Week 12,2 -Advance Typescript.mp4",
+        "Week 12.1.mp4",
+        "Week 12.3 - Deploying npm packages, Intro to Monorepos.mp4",
+        "Week 12.3 - Actionable Docker.mp4",
+        "Week 12.4 - SQL Relationships and Joins.mp4",
+        "Week 12.5 - Prisma Recap, Relationships in Prisma.mp4",
+        "Week 12.6 _ Connection pooling in serverless envs.mp4"
+    ],
+    "Week 13": [
+        "Week 13.1 - Medium Project Backend.mp4",
+        "Week 13.2 - Doubt Solving.mp4",
+        "Week 13.3 - Medium Project Backend Completed.mp4",
+        "Week 13.4 - Medium Project Frontend.mp4"
+    ],
+    "Week 14": [
+        "Week 14.1 - Intro to Next JS.mp4",
+        "Week 14.2.mp4",
+        "Week 14.3 - Nextjs Backend Part 2.mp4"
+    ],
+    "Week 15": [
+        "Week 15.1 Docker Intro .mp4",
+        "Week 15.2 Docker Continued .mp4",
+        "Week 15.3 - Docker push, compose, execute.mp4",
+        "Week 15.4- Docker Bind Mounts.mp4"
+    ],
+    "Week 16": [
+        "Week 16.1 - Monorepos.mp4",
+        "Week 16.2- Monorepo part 2.mp4",
+        "Week 16.2.1 Auth Using scops.mp4",
+        "Week 16.2.2 NEXTAuth.mp4",
+        "Week 16.3 - Authentication using cookies.mkv",
+        "Week 16.4 - NextAuth.mkv"
+    ],
+    "Week 17": [
+        "Week 17.1.mkv",
+        "Week 17.2 Paytm Part 2.mkv"
+    ],
+    "Week 18": [
+        "Week 18 Paytm wallet part 3.2.mp4",
+        "Week 18.1 Paytm Project 3.1.mp4",
+        "Week 18.1.2 - Paytm Project Part 3.2.mp4",
+        "Week 18.2 - Paytm Project Part 4.mp4"
+    ],
+        "Week 19": [
+            "Week 19.0.1 - Nextjs Middlewares.mp4",
+            "Week 19.0.2 - CSR and SSG.mp4",
+            "Week 19.3 - Advance backend Comm, Web sockets.mp4",
+            "Week 19.4 - Redis, Pub subs and Queues.mp4"
+        ],
+        "Week 20": [
+            "Week 20.1 - Orientation, Setting up CMS (Daily).mp4",
+            "Week 20.2 - OpenAPI Spec Offline.mp4"
+        ],
+        "Week 21": [],
+        "Week 22": [
+            "Week 21.2 - Singleton pattern and Pub subs.mp4",
+            "Week 22.1 - Scalling.mp4",
+            "Week 22.2 - Auto Scalling Groups.mp4",
+            "Week 22.3 _ Indexing in Databases.mp4",
+            "Week 22.4 Normalisation In Databases.mp4"
+        ],
+        "Week 23": [
+            "Week 23.1 - Webrctc.mp4",
+            "Week 23.2 - Webrtc, new Project, 0-1 farewell.mp4"
+        ]
+    }
+    
